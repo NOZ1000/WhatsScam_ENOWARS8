@@ -336,4 +336,4 @@ while True:
 
 ## Results
 Points from attacking:
-![](Attachments/Pasted%20image%2020240721025716.png)
+![](Pasted%20image%2020240721025716.png)
